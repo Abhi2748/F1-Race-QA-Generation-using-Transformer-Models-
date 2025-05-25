@@ -1,4 +1,4 @@
-# 🏎️Formula 1 Structured Question-Answering Using Transformer Models
+# 🏎️F1 Race Q&A Generation using Transformer Models
 
 This project explores the application of transformer-based models, specifically **RoBERTa** and **Flan-T5**, to structured question-answering (QA) tasks in the high-data-complexity domain of Formula 1 racing. The system is designed to interpret and respond to factual and reasoning-based questions generated from structured F1 data.
 
