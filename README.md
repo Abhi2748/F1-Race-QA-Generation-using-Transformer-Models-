@@ -57,7 +57,7 @@ This project explores the application of transformer-based models, specifically 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abhi2748/F1-Race-QA-Generation-using-Transformer-Models-.git]
+   git clone https://github.com/Abhi2748/F1-Race-QA-Generation-using-Transformer-Models-.git
    cd F1-Race-QA-Generation-using-Transformer-Models-
    ```
 
